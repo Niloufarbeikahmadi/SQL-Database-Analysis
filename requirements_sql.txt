@@ -1,0 +1,7 @@
+csv
+ibm_db
+ibm_db_dbi
+matplotlib.pyplot
+pandas
+seaborn
+sqlite3
